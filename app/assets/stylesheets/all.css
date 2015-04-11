@@ -22,24 +22,17 @@
 	outline:red solid 1px;
 }*/
 
-a#keyboardLink {
-	position:fixed;
-	top:0px;
-	right:0px;
-	text-decoration:none;
-	padding:3px;
-	border:solid 1px black;
-	background-color:White;
-	color:Black;
-	z-index:200;
+#chart td span:hover {
+	background-color: #FFFF66;
 }
+
+#nonPulmonicConsonants td span:hover {
+	background-color: #FFFF66;
+}
+
 #loadFontBtn {
 	float:right;
 	font-size:9pt;
-}
-a#keyboardLink:hover {
-	color:Black;
-	background-color:Yellow;
 }
 
 #chartIntro {
