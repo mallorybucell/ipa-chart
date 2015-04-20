@@ -1,3 +1,6 @@
+Forked from Weston Ruter to update and use as part of Classroom Phonetics project. (See working-sounds branch for my work.) This was an interesting exercise in working with someone else's legacy code, and also for me, learning JavaScript.
+
+Original README
 <h1>International Phonetic Alphabet (<abbr title="International Phonetic Alphabet">IPA</abbr>)</h1>
 <p>in Unicode and XHTML/CSS</p>
 
